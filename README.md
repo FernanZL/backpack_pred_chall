@@ -31,20 +31,20 @@ Before running the project, download the dataset from Kaggle, using the link pro
 If you don't have Git installed, first [install](https://git-scm.com/) it, then run this command in your terminal to clone the repository:
 
 ```bash
-git clone https://github.com/FernanZL/selled_vehicl_arg.git
+git clone https://github.com/FernanZL/bakcpack_pred_chall.git
 ```
 
 2. Install the dependencies
 Once you have cloned the repository, install the necessary libraries using the following command:
 ```bash
-pip install numpy pandas matplotlib scikit-learn seaborn lightgbm optuna category_encoders jupyter
+pip install numpy pandas scikit-learn lightgbm optuna jupyter
 ```
 
 3. Open the notebook
 To open the notebook in Jupyter, run the following command in the terminal:
 
 ```bash
-jupyter notebook selled_vehicl_arg.ipynb
+jupyter notebook backpack_pred_chall.ipynb
 ```
 
 Within the Jupyter notebook, you can run the code cells one by one by pressing Shift + Enter to perform the analysis and get the results.
